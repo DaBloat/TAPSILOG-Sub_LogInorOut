@@ -1,0 +1,4 @@
+
+gmail_pass = tapsilogunilriceunligravy
+
+smtp_pass = rbigbysiscdvaljf
