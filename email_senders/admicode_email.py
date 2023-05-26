@@ -9,8 +9,8 @@ from datetime import date
 
 class EmailSender:
     def __init__(self):
-        self.password = "rbigbysiscdvaljf"
-        self.email = "developerstapsilogsystems3@gmail.com"
+        self.password = "YOUR EMAIL PASSWORD"
+        self.email = "example@gamil.com" # YOUR OWN EMAIL 
         self.smtp_port = 587
         self.smtp_server = "smtp.gmail.com"
 
